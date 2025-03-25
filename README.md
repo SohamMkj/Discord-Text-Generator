@@ -1,3 +1,70 @@
+# Discord Text Generator
+
+🚀 **Discord Text Generator** is a web-based tool that allows users to apply ANSI color and background styles to text and copy the formatted output for use in Discord. With a simple and interactive UI built using **React, Vite, and Mantine UI**, this project enhances text customization and improves Discord message aesthetics.
+
+## 🎨 Features
+- **Real-Time Text Styling** – Apply ANSI colors to selected text dynamically.
+- **Copy ANSI Formatted Text** – Generate ANSI-styled text that can be copied and pasted directly into Discord.
+- **User-Friendly Editor** – A clean and intuitive text editor with content-editable support.
+- **Dark Mode Support** – Built with a modern, Discord-like dark theme.
+- **Mantine UI Components** – Styled using Mantine for a sleek and responsive UI.
+
+## 🛠️ Tech Stack
+- **React** – Component-based UI development
+- **Vite** – Fast and optimized build system
+- **Mantine UI** – Customizable UI components
+- **JavaScript (ES6+)** – Logic and functionality
+- **CSS** – Styling and theme management
+
+## 📂 Folder Structure
+```
+📦 discord-text-generator
+├── 📂 src
+│   ├── 📂 components
+│   │   ├── CopyButton.jsx
+│   │   ├── TextEditor.jsx
+│   │   ├── Toolbar.jsx
+│   ├── 📂 styles
+│   │   ├── colors.js
+│   ├── App.jsx
+│   ├── main.jsx
+├── 📂 public
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+```
+
+## 🚀 Deployment
+This project can be easily deployed on **Vercel**.
+1. Push your project to **GitHub**.
+2. Connect your GitHub repository to **Vercel**.
+3. Click **Deploy** and get your live project URL!
+
+## 🏗️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SohamMkj/discord-text-generator.git
+   cd discord-text-generator
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📜 License
+This project is open-source under the **MIT License**.
+
+---
+💡 Feel free to contribute, suggest features, or report issues! 🎉
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
