@@ -36,10 +36,9 @@
 ```
 
 ## 🚀 Deployment
-This project can be easily deployed on **Vercel**.
-1. Push your project to **GitHub**.
-2. Connect your GitHub repository to **Vercel**.
-3. Click **Deploy** and get your live project URL!
+This project is deployed on Vercel at:-
+https://discord-text-generator-theta.vercel.app/
+
 
 ## 🏗️ Setup & Installation
 1. Clone the repository:
